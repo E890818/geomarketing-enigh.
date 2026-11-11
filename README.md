@@ -1,4 +1,4 @@
-"""
+
 ================================================================================
 DOCUMENTACIÓN GENERAL DEL PROYECTO: ANÁLISIS DE GEOMARKETING (ENIGH)
 ================================================================================
@@ -12,4 +12,4 @@ Salidas:   Archivo Excel 'resultado_geomarketing_transporte.xlsx' con dos hojas:
            1) Resumen_NSE
            2) Resumen_Estado
 ================================================================================
-"""
+
